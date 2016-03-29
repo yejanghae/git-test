@@ -1,0 +1,4 @@
+# Object(.o) & achive file(.a)
+*.[oa]
+# text editor의 임시파일
+*~
